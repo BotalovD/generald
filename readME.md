@@ -66,3 +66,6 @@
   <li>Итог №2</li>
 </ol>
 <br> 
+
+# Контактная информация
+Email: <denis.botalov@internet.ru>
