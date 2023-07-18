@@ -1,3 +1,6 @@
+<div class="tenor-gif-embed" data-postid="23803132" data-share-method="host" data-aspect-ratio="3.405" data-width="100%"><a href="https://tenor.com/view/cai-anime-typing-gif-23803132">Cai Anime Typing GIF</a>from <a href="https://tenor.com/search/cai+anime+typing-gifs">Cai Anime Typing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
 <h1 align="center">Портфолио: аналитик данных
 
 ## Обо мне 
