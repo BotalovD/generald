@@ -3,7 +3,7 @@
 [![Vkontakte](https://img.shields.io/badge/VK-green?logo=VK&logoColor=white)](https://vk.com/id9614535)
 <h1 align="center">Портфолио: аналитик данных
 
-## Обо мне 
+## Обо мне :man_technologist:
 
 **Привет! Меня зовут Денис Боталов, я начинающий аналитик данных.** 
 
