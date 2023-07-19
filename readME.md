@@ -67,12 +67,13 @@
 
 Сформулированы рекомендации по выходу на плановую маржинальность
 
-[Ссылка на презентацию](https://docs.google.com/presentation/d/1iaDE-CILRHfGIo9iFa1EwaIk5Z5vXLAg/edit?usp=sharing&ouid=107950613092019723833&rtpof=true&sd=true)
-[Ссылка на калькулятор]
+[Презентация](https://docs.google.com/presentation/d/1iaDE-CILRHfGIo9iFa1EwaIk5Z5vXLAg/edit?usp=sharing&ouid=107950613092019723833&rtpof=true&sd=true)
+
+[Калькулятор юнит-экономики]
 
 ### Проект 3: Моделирование изменения балансов студентов
 <ol>
-
+ 
  **Цель**Смоделировать изменение баланса уроков студентов:
 
  **Этапы решения:** 
