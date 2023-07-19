@@ -92,6 +92,6 @@
 - Динамику развития бизнеса и проблемные области
 
 ![Студбаланс](https://github.com/BotalovD/generald/blob/main/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203.png)
-[баланс]
+[баланс уроков.График. Выводы](https://github.com/BotalovD/generald/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203.%20%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%20%D0%B8%20%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B.docx)
 # Контактная информация
 Email: <denis.botalov@internet.ru>
