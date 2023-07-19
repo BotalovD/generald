@@ -69,7 +69,7 @@
 
 [Презентация](https://docs.google.com/presentation/d/1iaDE-CILRHfGIo9iFa1EwaIk5Z5vXLAg/edit?usp=sharing&ouid=107950613092019723833&rtpof=true&sd=true)
 
-[Калькулятор юнит-экономики]
+[Калькулятор юнит-экономики онлайн-кинотеатра](https://docs.google.com/spreadsheets/d/1ioYdnxqaX3BftwC4etXL454hbvgaq6WY/edit?usp=sharing&ouid=107950613092019723833&rtpof=true&sd=true)
 
 ### Проект 3: Моделирование изменения балансов студентов
 <ol>
